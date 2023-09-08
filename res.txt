@@ -1,0 +1,13 @@
+ 		------------------------------
+		/                             |
+		|     Welcome to Justy-sh!    |
+		|                             /
+ 		------------------------------
+
+j_shell> You are here:> /Users/saurabhkumar/Desktop/Semester 4/COP290/assignment2/cs1180386_sh
+
+j_shell> 
+______________Closing the J-shell_____________
+
+
+[This is a parent! I lost my child xD]
